@@ -21,7 +21,7 @@ Download the Script: Download or create the script file ado-audit.sh on your sys
 Modify the Script:
 
 1. Open the script in a text editor.
-2. Replace YourOrganization, YourProject, and YourPersonalAccessToken with your actual Azure DevOps details.
+2. Replace `YourOrganization`, `YourProject`, and `YourPersonalAccessToken` with your actual Azure DevOps details.
 3. Make the Script Executable:
 
 ```bash
